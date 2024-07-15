@@ -1,0 +1,226 @@
+﻿Age,Climate,Weather,Location,Preference,State,Ocassion,Target
+27,Semi-arid,Humid,Rural,Modest,Gujarat,Party,Short Kurtis
+23,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,Short Kurtis
+29,Subtropical,Cloudy,Urban,Modest,Bihar,Festival,Short Kurtis
+26,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Short Kurtis
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Short Kurtis
+24,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Short Kurtis
+30,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Short Kurtis
+32,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Short Kurtis
+27,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Short Kurtis
+25,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,Short Kurtis
+23,Semi-arid,Humid,Rural,Modest,Gujarat,Festival,Short Kurtis
+26,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,Short Kurtis
+29,Subtropical,Cloudy,Urban,Modest,Bihar,Party,Short Kurtis
+24,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Short Kurtis
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Short Kurtis
+30,Subtropical,Sunny,Urban,Modest,Delhi,Casual,Cardigans
+32,Subtropical,Humid,Rural,Trendy,Gujarat,Party,Cardigans
+28,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Cardigans
+35,Subtropical,Cloudy,Urban,Trendy,Bihar,Festival,Cardigans
+33,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Cardigans
+31,Subtropical,Sunny,Urban,Trendy,Delhi,Party,Cardigans
+29,Tropical,Humid,Rural,Modest,Gujarat,Casual,Cardigans
+34,Subtropical,Rainy,Suburban,Trendy,Tamil Nadu,Party,Cardigans
+36,Temperate,Cloudy,Urban,Modest,Bihar,Festival,Cardigans
+32,Subtropical,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Cardigans
+30,Subtropical,Sunny,Urban,Modest,Delhi,Party,Cardigans
+27,Tropical,Humid,Rural,Trendy,Gujarat,Casual,Cardigans
+31,Subtropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Cardigans
+33,Temperate,Cloudy,Urban,Trendy,Bihar,Party,Cardigans
+29,Subtropical,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Cardigans
+28,Tropical,Sunny,Urban,Trendy,Delhi,Party,Cardigans
+29,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Full-Length Tops
+31,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Full-Length Tops
+27,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Party,Full-Length Tops
+34,Subtropical,Cloudy,Urban,Trendy,Bihar,Festival,Full-Length Tops
+32,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Full-Length Tops
+30,Semi-arid,Sunny,Urban,Trendy,Delhi,Party,Full-Length Tops
+28,Semi-arid,Humid,Rural,Modest,Gujarat,Casual,Full-Length Tops
+33,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Festival,Full-Length Tops
+35,Subtropical,Cloudy,Urban,Modest,Bihar,Casual,Full-Length Tops
+31,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Party,Full-Length Tops
+29,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Full-Length Tops
+27,Semi-arid,Humid,Rural,Trendy,Gujarat,Festival,Full-Length Tops
+32,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Full-Length Tops
+34,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Full-Length Tops
+30,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Full-Length Tops
+28,Semi-arid,Sunny,Urban,Trendy,Delhi,Party,Full-Length Tops
+29,Semi-arid,Humid,Rural,Modest,Gujarat,Casual,Full-Length Tops
+33,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Festival,Full-Length Tops
+36,Subtropical,Cloudy,Urban,Modest,Bihar,Casual,Full-Length Tops
+32,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Party,Full-Length Tops
+31,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Full-Length Tops
+30,Semi-arid,Humid,Rural,Trendy,Gujarat,Festival,Full-Length Tops
+28,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Full-Length Tops
+34,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Full-Length Tops
+31,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Full-Length Tops
+25,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,Short Kurtis
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Blouse
+29,Semi-arid,Humid,Rural,Trendy,Gujarat,Party,Blouse
+25,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Blouse
+32,Subtropical,Cloudy,Urban,Trendy,Bihar,Festival,Blouse
+30,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Blouse
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Blouse
+26,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Blouse
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Blouse
+33,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Blouse
+29,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Blouse
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Blouse
+25,Semi-arid,Humid,Rural,Trendy,Gujarat,Festival,Blouse
+30,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Blouse
+32,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Blouse
+28,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Blouse
+26,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Blouse
+29,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Blouse
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Blouse
+34,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Blouse
+30,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Blouse
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Blouse
+26,Semi-arid,Humid,Rural,Trendy,Gujarat,Festival,Blouse
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Blouse
+33,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Blouse
+29,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Blouse
+28,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,Hoodies
+30,Semi-arid,Humid,Rural,Modest,Gujarat,Party,Hoodies
+26,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,Hoodies
+32,Subtropical,Cloudy,Urban,Modest,Bihar,Festival,Hoodies
+29,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Hoodies
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Hoodies
+25,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Hoodies
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Hoodies
+33,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Hoodies
+30,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Hoodies
+28,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,Hoodies
+26,Semi-arid,Humid,Rural,Modest,Gujarat,Festival,Hoodies
+31,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,Hoodies
+34,Subtropical,Cloudy,Urban,Modest,Bihar,Party,Hoodies
+29,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Hoodies
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Hoodies
+25,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Hoodies
+32,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Hoodies
+35,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Hoodies
+31,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Hoodies
+29,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,Hoodies
+27,Semi-arid,Humid,Rural,Modest,Gujarat,Festival,Hoodies
+33,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,Hoodies
+36,Subtropical,Cloudy,Urban,Modest,Bihar,Party,Hoodies
+30,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Hoodies
+30,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Cotton Kurtas
+32,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Cotton Kurtas
+28,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Cotton Kurtas
+35,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Cotton Kurtas
+33,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Cotton Kurtas
+29,Semi-arid,Humid,Rural,Modest,Gujarat,Casual,Cotton Kurtas
+34,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Party,Cotton Kurtas
+36,Subtropical,Cloudy,Urban,Modest,Bihar,Festival,Cotton Kurtas
+32,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Cotton Kurtas
+30,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Cotton Kurtas
+27,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Cotton Kurtas
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Cotton Kurtas
+33,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Cotton Kurtas
+29,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Cotton Kurtas
+28,Semi-arid,Sunny,Urban,Trendy,Delhi,Party,Cotton Kurtas
+30,Semi-arid,Humid,Rural,Modest,Gujarat,Casual,Cotton Kurtas
+32,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Party,Cotton Kurtas
+29,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Cotton Kurtas
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Cotton Kurtas
+33,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Cotton Kurtas
+28,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Cotton Kurtas
+36,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Cotton Kurtas
+32,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Cotton Kurtas
+25,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,T-Shirts
+27,Semi-arid,Humid,Rural,Modest,Gujarat,Party,T-Shirts
+23,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,T-Shirts
+29,Subtropical,Cloudy,Urban,Modest,Bihar,Festival,T-Shirts
+26,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,T-Shirts
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Party,T-Shirts
+24,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,T-Shirts
+30,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,T-Shirts
+32,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,T-Shirts
+27,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,T-Shirts
+25,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,T-Shirts
+23,Semi-arid,Humid,Rural,Modest,Gujarat,Festival,T-Shirts
+26,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,T-Shirts
+29,Subtropical,Cloudy,Urban,Modest,Bihar,Party,T-Shirts
+24,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,T-Shirts
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Festival,T-Shirts
+30,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,T-Shirts
+32,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Party,T-Shirts
+31,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,T-Shirts
+29,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,T-Shirts
+27,Semi-arid,Sunny,Urban,Trendy,Delhi,Casual,T-Shirts
+33,Semi-arid,Humid,Rural,Modest,Gujarat,Festival,T-Shirts
+28,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Casual,T-Shirts
+36,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,T-Shirts
+32,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,T-Shirts
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Casual Shirts
+30,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Casual Shirts
+26,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Party,Casual Shirts
+33,Subtropical,Cloudy,Urban,Trendy,Bihar,Festival,Casual Shirts
+31,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Casual Shirts
+29,Semi-arid,Sunny,Urban,Trendy,Delhi,Party,Casual Shirts
+27,Semi-arid,Humid,Rural,Modest,Gujarat,Casual,Casual Shirts
+32,Tropical,Rainy,Suburban,Trendy,Tamil Nadu,Festival,Casual Shirts
+34,Subtropical,Cloudy,Urban,Modest,Bihar,Casual,Casual Shirts
+30,Temperate,Sunny,Rural,Trendy,Himanchal Pradesh,Party,Casual Shirts
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Casual Shirts
+26,Semi-arid,Humid,Rural,Trendy,Gujarat,Festival,Casual Shirts
+29,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Casual Shirts
+31,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Casual Shirts
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Casual Shirts
+29,Semi-arid,Humid,Rural,Trendy,Gujarat,Party,Casual Shirts
+25,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Casual Shirts
+32,Subtropical,Cloudy,Urban,Trendy,Bihar,Festival,Casual Shirts
+30,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Casual Shirts
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Casual Shirts
+26,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Casual Shirts
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Casual Shirts
+33,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Casual Shirts
+29,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Casual Shirts
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Casual Shirts
+25,Semi-arid,Humid,Rural,Trendy,Gujarat,Festival,Casual Shirts
+30,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Casual Shirts
+32,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Casual Shirts
+28,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Casual Shirts
+26,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Casual Shirts
+29,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Casual Shirts
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Casual Shirts
+34,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Casual Shirts
+30,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Casual Shirts
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Short Kurtis
+30,Semi-arid,Humid,Rural,Trendy,Gujarat,Party,Short Kurtis
+26,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Short Kurtis
+32,Subtropical,Cloudy,Urban,Trendy,Bihar,Festival,Short Kurtis
+29,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Short Kurtis
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Short Kurtis
+25,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Short Kurtis
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Short Kurtis
+33,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Short Kurtis
+30,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Short Kurtis
+28,Semi-arid,Sunny,Urban,Modest,Delhi,Casual,Short Kurtis
+26,Semi-arid,Humid,Rural,Trendy,Gujarat,Festival,Short Kurtis
+31,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Short Kurtis
+34,Subtropical,Cloudy,Urban,Trendy,Bihar,Party,Short Kurtis
+29,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Short Kurtis
+27,Semi-arid,Sunny,Urban,Modest,Delhi,Party,Short Kurtis
+25,Semi-arid,Humid,Rural,Trendy,Gujarat,Casual,Short Kurtis
+32,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Short Kurtis
+35,Subtropical,Cloudy,Urban,Trendy,Bihar,Casual,Short Kurtis
+31,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Party,Short Kurtis
+30,Subtropical,Sunny,Urban,Modest,Delhi,Casual,Cardigans
+32,Subtropical,Humid,Rural,Trendy,Gujarat,Party,Cardigans
+28,Tropical,Rainy,Suburban,Modest,Tamil Nadu,Casual,Cardigans
+35,Subtropical,Cloudy,Urban,Trendy,Bihar,Festival,Cardigans
+33,Temperate,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Cardigans
+31,Subtropical,Sunny,Urban,Trendy,Delhi,Party,Cardigans
+29,Tropical,Humid,Rural,Modest,Gujarat,Casual,Cardigans
+34,Subtropical,Rainy,Suburban,Trendy,Tamil Nadu,Party,Cardigans
+36,Temperate,Cloudy,Urban,Modest,Bihar,Festival,Cardigans
+32,Subtropical,Sunny,Rural,Trendy,Himanchal Pradesh,Casual,Cardigans
+30,Subtropical,Sunny,Urban,Modest,Delhi,Party,Cardigans
+27,Tropical,Humid,Rural,Trendy,Gujarat,Casual,Cardigans
+31,Subtropical,Rainy,Suburban,Modest,Tamil Nadu,Festival,Cardigans
+33,Temperate,Cloudy,Urban,Trendy,Bihar,Party,Cardigans
+29,Subtropical,Sunny,Rural,Modest,Himanchal Pradesh,Casual,Cardigans
+28,Tropical,Sunny,Urban,Trendy,Delhi,Party,Cardigans
